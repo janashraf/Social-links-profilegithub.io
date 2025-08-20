@@ -45,7 +45,7 @@ a{
     color: var(--White);
     display: block;
     background-color: var(--Grey-700);
-    padding: 0.75rem;
+    padding: 1rem;
     border-radius: 8px;
     font-family: 'interSemibold', sans-serif;
     font-size: 0.875rem;
