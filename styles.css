@@ -50,7 +50,7 @@ a{
     font-family: 'interSemibold', sans-serif;
     font-size: 0.875rem;
 }
-a:active{
+a:hover{
     background-color: var(--Green);
     color: var(--Grey-900);
 }
